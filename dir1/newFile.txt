@@ -2,3 +2,5 @@ Issues:
 fixen: 
 - bei commit in Kommentar schreiben "fixes #", dann aus Popup-Liste auswählen, oder
 - im Issue ganz unten manuell
+
+Klonen, fetch, push:
